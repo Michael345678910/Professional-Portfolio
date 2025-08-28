@@ -1,0 +1,79 @@
+<!-- header-img.svg — monitor w/ pink bezel -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Monitor with code">
+  <defs>
+    <!-- Accent gradient (matches site) -->
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#A855F7"></stop>
+      <stop offset="1" stop-color="#6366F1"></stop>
+    </linearGradient>
+
+    <!-- Subtle dark screen gradient -->
+    <linearGradient id="screenGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f172a"></stop>
+      <stop offset="1" stop-color="#111827"></stop>
+    </linearGradient>
+
+    <!-- Soft shadow -->
+    <filter id="softShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000" flood-opacity="0.25"></feDropShadow>
+    </filter>
+  </defs>
+
+  <!-- Ground shadow -->
+  <ellipse cx="320" cy="448" rx="160" ry="22" fill="#000" opacity="0.18"></ellipse>
+
+  <!-- Monitor body -->
+  <g filter="url(#softShadow)">
+    <!-- Bezel (changed to pink) -->
+    <rect x="32" y="36" width="576" height="360" rx="28" fill="#C04191"></rect>
+    <!-- Inner lip -->
+    <rect x="48" y="56" width="544" height="320" rx="20" fill="#E85E6E" opacity="0.25"></rect>
+    <!-- Screen -->
+    <rect x="64" y="76" width="512" height="280" rx="14" fill="url(#screenGrad)"></rect>
+  </g>
+
+  <!-- Camera dot + home button -->
+  <circle cx="320" cy="56" r="6" fill="#dbeafe" opacity="0.85"></circle>
+  <circle cx="320" cy="400" r="10" fill="#d1fae5" opacity="0.9"></circle>
+
+  <!-- Stand -->
+  <rect x="290" y="396" width="60" height="46" rx="10" fill="#334155"></rect>
+  <rect x="220" y="436" width="200" height="18" rx="9" fill="#1f2937"></rect>
+
+  <!-- Code window header (traffic lights) -->
+  <g transform="translate(88,98)">
+    <rect width="464" height="36" rx="10" fill="url(#accent)" opacity="0.18"></rect>
+    <circle cx="18" cy="18" r="6" fill="#ef4444"></circle>
+    <circle cx="38" cy="18" r="6" fill="#f59e0b"></circle>
+    <circle cx="58" cy="18" r="6" fill="#22c55e"></circle>
+  </g>
+
+  <!-- Code gutter -->
+  <g transform="translate(88,134)">
+    <rect width="36" height="200" rx="6" fill="#0b1220" opacity="0.6"></rect>
+    <g fill="#94a3b8" opacity="0.8">
+      <rect x="10" y="10" width="16" height="8" rx="3"></rect>
+      <rect x="10" y="38" width="16" height="8" rx="3"></rect>
+      <rect x="10" y="66" width="16" height="8" rx="3"></rect>
+      <rect x="10" y="94" width="16" height="8" rx="3"></rect>
+      <rect x="10" y="122" width="16" height="8" rx="3"></rect>
+      <rect x="10" y="150" width="16" height="8" rx="3"></rect>
+      <rect x="10" y="178" width="16" height="8" rx="3"></rect>
+    </g>
+  </g>
+
+  <!-- Code content -->
+  <g transform="translate(128,134)">
+    <path d="M24 22 L10 32 L24 42M64 22 L78 32 L64 42" fill="none" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"></path>
+    <rect x="8" y="64" width="120" height="14" rx="7" fill="url(#accent)"></rect>
+    <rect x="136" y="64" width="224" height="14" rx="7" fill="#8EA0BD"></rect>
+    <rect x="8" y="92" width="192" height="12" rx="6" fill="#6B7D98"></rect>
+    <rect x="204" y="92" width="156" height="12" rx="6" fill="url(#accent)"></rect>
+    <rect x="8" y="118" width="260" height="12" rx="6" fill="#8EA0BD"></rect>
+    <rect x="272" y="118" width="88" height="12" rx="6" fill="#6B7D98"></rect>
+    <rect x="8" y="144" width="160" height="12" rx="6" fill="url(#accent)"></rect>
+    <rect x="172" y="144" width="188" height="12" rx="6" fill="#8EA0BD"></rect>
+    <rect x="8" y="170" width="224" height="12" rx="6" fill="#6B7D98"></rect>
+    <rect x="236" y="170" width="124" height="12" rx="6" fill="url(#accent)"></rect>
+  </g>
+</svg>
