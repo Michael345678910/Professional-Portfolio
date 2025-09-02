@@ -73,9 +73,3 @@ Please check the File Pathway Tree File found in this project's repository.
 # Contributing To the Codebase:
 
 Contributions are welcome! Fork this repository, and use it to make your own personal portfolio project! Or if you catch something in my program that I missed or if you come up with a new feature to add to the site, create a new branch for your feature/fix. 
-
-
-# Still Working On/Upcoming Features:
--	Data persistence/enabling the database to save events added to the database/calendar application.
--	Have edits to the calendar save after being edited, and the save button is clicked.
--	Deleting a Calendar Event does not crash 
