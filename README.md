@@ -1,7 +1,6 @@
 # Personal Portfolio React/Node.js Website 
 
 # Overview:
-
 This project is a full-stack personal portfolio website designed to showcase my technical projects, skills, certifications, and professional experience in a fun and interactive website. 
 
 The **frontend** is built utilizing React and styled using modern CSS, HTML, and Bootstrap for responsiveness, while the **backend** leverages Node.js and Express to support dynamic functionality, such as the contact form (which is powered by Nodemailer). 
@@ -9,9 +8,6 @@ The **frontend** is built utilizing React and styled using modern CSS, HTML, and
 This portfolio project highlights my professional and academic projects across multiple technologies, demonstrates software engineering and leadership experience, and provides recruiters or collaborators with a central hub to view skills, certifications, and contact details to get in touch with me. 
 
 The goal of this project is to serve as a living resume and professional showcase that integrates technical depth, design polish, and interactive features.
-
-# Features:
-
 - **Interactive Banner** – Utilizes a Dynamic typewriter animation to introduce my different professional IT roles and strengths (Software Engineer, Full Stack Developer, etc.) 
 - **Skills Section** – Visual progress bars to show how proficient/confident/knowledgeable I am utilizing a skill; categorized different skill groups, certifications, and leadership highlights 
 - **Projects Section** – Organized with tabs for Highlighted Projects, Other Applications, and “I’m Just Getting Started!” for future growth opportunities 
@@ -22,28 +18,28 @@ The goal of this project is to serve as a living resume and professional showcas
 
 ## Technologies Used:
 ### Frontend:
--	 React 18 
--	React-Bootstrap 
--	Bootstrap 5 
--	Animate.css 
--	React-on-Screen 
+- React 18 
+- React-Bootstrap 
+- Bootstrap 5 
+- Animate.css 
+- React-on-Screen 
 
 ### Backend:
--	Node.js 
--	Express.js 
--	CORS 
--	Nodemailer 
+- Node.js 
+- Express.js 
+- CORS 
+- Nodemailer 
 
 ### Other Tools & Assets:
--	JavaScript (ES6+), HTML5, CSS3 
--	Custom fonts (Centra) 
--	Custom SVG/PNG assets (created via Inkscape) 
--	Git & GitHub for version control 
+- JavaScript (ES6+), HTML5, CSS3 
+- Custom fonts (Centra) 
+- Custom SVG/PNG assets (created via Inkscape) 
+- Git & GitHub for version control 
 
 # Usage Instructions:
 
 # File Pathway Tree/ File Directory:
-Please check the File Pathway Tree File found in this project's repository.
+Please check the File Pathway Tree Document File found in this project's repository.
 
 ## Installation & Setup (Using VS code):
 - 1.1 Download or clone this repository to your local machine.
