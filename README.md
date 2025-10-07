@@ -16,6 +16,29 @@ The goal of this project is to serve as a living resume and professional showcas
 - **Custom Styling** – Enhanced animations (Animate.css), interactive hover effects, and custom typography to enhance the portfolio and make it more engaging 
 - **Scalable Backend** – Email handling separated via server.js with secure environment variables for credentials 
 
+# Current Finished Product Images:
+
+### Intro / About Me + Beginning of the Skills Section:
+![Portfolio – Intro / About Me + Language Skills](ReadMe_File_Images/Portfolio_Intro-About_Me+Language_Skills.png)
+
+### Skills Section:
+![Portfolio – Skills Section](ReadMe_File_Images/Portfolio_Skills_Section.png)
+
+### Degrees & Leadership/Other Skills:
+![Portfolio – Degrees & Leadershipp/Other Skills](ReadMe_File_Images/Portfolio_Degrees+Leadership_Skills.png)
+
+### Project Tab 1: Highlighted Projects Tab:
+![Project Tab 1 – Highlighted Projects Tab](ReadMe_File_Images/Portfolio_Highlighted_Projects.png)
+
+### Project Tab 2: Other Projects Tab:
+![Project Tab 2 – Other Projects Tab](ReadMe_File_Images/Portfolio_Other_Projects.png)
+
+### Project Tab: Projects Animation Example:
+![Project Tab – Hovering Projects Animation Example](ReadMe_File_Images/Portfolio_Projects_Animation_Example.png)
+
+### Project Tab 3: Getting Started Tab & Get In Touch Form:
+![Portfolio – Getting Started Tab & Get In Touch Form](ReadMe_File_Images/Portfolio_Getting_Started_Tab&Get_In_Touch_Form.png)
+
 ## Technologies Used:
 ### Frontend:
 - React 18 
