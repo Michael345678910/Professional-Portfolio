@@ -19,13 +19,13 @@ The goal of this project is to serve as a living resume and professional showcas
 # Current Finished Product Images:
 
 ### Intro / About Me + Beginning of the Skills Section:
-![Portfolio – Intro / About Me + Language Skills](ReadMe_File_Images/Portfolio_Intro-About_Me+Language_Skills.png)
+![Intro / About Me + Language Skills](ReadMe_File_Images/Portfolio_Intro-About_Me+Language_Skills.png)
 
 ### Skills Section:
-![Portfolio – Skills Section](ReadMe_File_Images/Portfolio_Skills_Section.png)
+![Skills Section](ReadMe_File_Images/Portfolio_Skills_Section.png)
 
 ### Degrees & Leadership/Other Skills:
-![Portfolio – Degrees & Leadershipp/Other Skills](ReadMe_File_Images/Portfolio_Degrees+Leadership_Skills.png)
+![Degrees & Leadership/Other Skills](ReadMe_File_Images/Portfolio_Degrees+Leadership_Skills.png)
 
 ### Project Tab 1: Highlighted Projects Tab:
 ![Project Tab 1 – Highlighted Projects Tab](ReadMe_File_Images/Portfolio_Highlighted_Projects.png)
@@ -36,8 +36,11 @@ The goal of this project is to serve as a living resume and professional showcas
 ### Project Tab: Projects Animation Example:
 ![Project Tab – Hovering Projects Animation Example](ReadMe_File_Images/Portfolio_Projects_Animation_Example.png)
 
-### Project Tab 3: Getting Started Tab & Get In Touch Form:
-![Portfolio – Getting Started Tab & Get In Touch Form](ReadMe_File_Images/Portfolio_Getting_Started_Tab.png)
+### Project Tab 3: Getting Started Tab:
+![Project Tab 3 – Getting Started Tab](ReadMe_File_Images/Portfolio_Getting_Started_Tab.png)
+
+### Get In Touch Form & Website Footer:
+![Get In Touch Form & Website Footer](ReadMe_File_Images/Portfolio_Get_In_Touch_Form.png)
 
 ## Technologies Used:
 ### Frontend:
