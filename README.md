@@ -37,7 +37,7 @@ The goal of this project is to serve as a living resume and professional showcas
 ![Project Tab – Hovering Projects Animation Example](ReadMe_File_Images/Portfolio_Projects_Animation_Example.png)
 
 ### Project Tab 3: Getting Started Tab & Get In Touch Form:
-![Portfolio – Getting Started Tab & Get In Touch Form](ReadMe_File_Images/Portfolio_Getting_Started_Tab&Get_In_Touch_Form.png)
+![Portfolio – Getting Started Tab & Get In Touch Form](ReadMe_File_Images/Portfolio_Getting_Started_Tab.png)
 
 ## Technologies Used:
 ### Frontend:
